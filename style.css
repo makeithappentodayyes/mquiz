@@ -1,0 +1,115 @@
+
+
+
+
+body {
+
+	background-color:red
+
+
+	font-family: 'Arial', sans-serif;
+
+	font-size: 14px;
+
+}
+
+
+
+
+
+
+header {
+
+	text-align: center;
+
+	border-bottom: rgb(131, 17, 17) solid 1px;
+
+	margin-bottom: 10px;
+
+}
+
+
+
+header h1 {
+
+	margin: 0;
+
+	padding: 0;
+
+}
+
+
+
+header p {
+
+	padding: 0;
+
+	margin-top: 5px;
+
+	color:red
+
+}
+
+
+#results span {
+
+	color:green
+
+	font-weight: bold;
+
+}
+
+section {
+
+	min-height: 400px;
+
+}
+
+
+
+footer {
+
+	text-align: center;
+
+}
+
+
+
+input[type='submit'] {
+
+	background-color: rgb(173, 37, 37);
+
+	border: 0;
+
+	width: 100%;
+
+	color: #000;
+
+	border-radius: 10px;
+
+	text-align: center;
+
+	font-size: 16px;
+
+	font-weight: bold;
+
+	padding: 10px 5px;
+
+	cursor: pointer;
+
+}
+
+
+
+#results h3 {
+
+	background-color: #b33;
+
+	padding: 10px;
+
+	margin: 10px 0;
+
+}
+
+
+
